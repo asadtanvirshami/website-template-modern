@@ -1,0 +1,1513 @@
+{
+ "intro": "Being 10 years in the market, we are well acquainted with the competition. That's why we bring the most reasonable price plans. We ensure quality over quantity.",
+ "cats": [
+  {
+   "tabId": "pills-home-tab",
+   "label": "logo design",
+   "packages": [
+    {
+     "name": "BRONZE Logo Package",
+     "price": "$25",
+     "tagline": "Cost Effective Package for your business",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "3 Logo Concepts",
+        "3 Revisions",
+        "By 2 Dedicated Designers",
+        "24 - 48 Hours Turn Around Time",
+        "Final Files Format (PNG, JPG)"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SILVER Logo Package",
+     "price": "$65",
+     "tagline": "Cost Effective Package for your business",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "5 Logo Concepts",
+        "5 Revisions",
+        "By 4 Dedicated Designers",
+        "Business Card Design",
+        "Fav Icon",
+        "24 - 48 Hours Turn Around Time"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "GOLD Logo Package",
+     "price": "$125",
+     "tagline": "Cost Effective Package for your business",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "UNLIMITED Logo Design Concepts",
+        "By 4 Industry Based Designers",
+        "UNLIMITED Revisions",
+        "FREE MS Electronic Letterhead",
+        "FREE Custom Stationery Design (Letterhead, Business Card, Envelope)"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)",
+        "100% Ownership Rights",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "PLATINUM Logo Package",
+     "price": "$175",
+     "tagline": "Cost Effective Package for your business",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "UNLIMITED Logo Design Concepts",
+        "By 5 Award Winning Designers",
+        "Free Icon Design",
+        "FREE Custom Stationery Design (Letterhead, Business Card, Envelope, Invoice)",
+        "UNLIMITED Revisions"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)",
+        "100% Ownership Rights",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DIAMOND Logo Package",
+     "price": "$245",
+     "tagline": "Cost Effective Package for your business",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Unlimited Logo Concepts",
+        "Unlimited Revisions",
+        "By 2 Dedicated Team Of Designers",
+        "Social Media Design (Facebook, LinkedIn, Twitter)",
+        "2 No's Flyer or Bi-Fold Brochures"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)",
+        "100% Ownership Rights",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "INFINITE Logo Package",
+     "price": "$495",
+     "tagline": "Cost Effective Package for your business",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Unlimited Logo Concepts",
+        "Unlimited Revisions",
+        "By 2 Dedicated Team Of Designers",
+        "3 Page Custom Website",
+        "Social Media Integration",
+        "Google Map Integration"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)",
+        "100% Ownership Rights",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Basic Illustrative",
+     "price": "$255",
+     "tagline": "Ideal for Beginners and Start-Ups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "3 Custom Logo Design Concepts",
+        "By 2 Designers",
+        "UNLIMITED Revisions",
+        "48 Hours Turn Around Time"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)",
+        "100% Ownership Rights",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Startup Illustrative",
+     "price": "$355",
+     "tagline": "Ideal for Beginners and Start-Ups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "4 Custom Logo Design Concepts",
+        "By 3 Designers",
+        "48 Hours Turn Around Time",
+        "UNLIMITED Revisions"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)",
+        "100% Ownership Rights",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Gold Illustrative",
+     "price": "$555",
+     "tagline": "Ideal for Beginners and Start-Ups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "UNLIMITED Logo Design Concepts",
+        "By 4 Designers",
+        "UNLIMITED Revisions",
+        "48 Hours Turn Around Time"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)",
+        "100% Ownership Rights",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "3D Logo",
+     "price": "$555",
+     "tagline": "Exclusive Branding Solution for Business on Budget",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "3 Unique 3D Logo Concepts",
+        "Light Effects and VFX",
+        "Fully Rendered",
+        "Multiple 3D Angles",
+        "By 3 Award Winning Designers",
+        "48 Hours Turn Around Time",
+        "UNLIMITED Revisions"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "All Final Files Format (AI, PSD, EPS, PNG, GIF, JPG, PDF)",
+        "100% Ownership Rights",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": "pills-profile-tab",
+   "label": "web design",
+   "packages": [
+    {
+     "name": "Web Economy",
+     "price": "$200",
+     "tagline": "Ideal for small business and start Ups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "3 Page Website Design",
+        "1 Banner Design",
+        "Contact/Query Form",
+        "3 Revisions",
+        "Complete W3C Certified HTML Guarantee",
+        "Complete Deployment"
+       ]
+      },
+      {
+       "heading": "** Value Added Services **",
+       "items": [
+        "Complete Source Files",
+        "100% Ownership Rights",
+        "100% Approval Assurance"
+       ]
+      },
+      {
+       "heading": "** ADD ONS **",
+       "items": [
+        "$50 Per Additional Page",
+        "$250 Payment Integration",
+        "$300 Shopping Cart Integration",
+        "*NO MONTHLY OR ANY HIDDEN FEE*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Web Basic",
+     "price": "$350",
+     "tagline": "Ideal for small business and start Ups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "5 Page Responsive Website Design",
+        "1 Banner Design",
+        "Contact/Query Form",
+        "3 Revisions",
+        "Complete W3C Certified HTML Guarantee",
+        "Complete Deployment",
+        "48 Hours Turn Around Time"
+       ]
+      },
+      {
+       "heading": "** Value Added Services **",
+       "items": [
+        "Complete Source Files",
+        "100% Ownership Rights",
+        "100% Approval Assurance",
+        "100% Money Back Guarantee *",
+        "$50 Per Additional Page",
+        "$250 Payment Integration",
+        "$300 Shopping Cart Integration",
+        "*NO MONTHLY OR ANY HIDDEN FEE*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Web Bronze",
+     "price": "$445",
+     "tagline": "Ideal for small business and start Ups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "5 Page Website Design",
+        "Content Management System (WordPress)",
+        "1 Banner Design",
+        "Contact/Query Form",
+        "3 Revisions",
+        "Complete W3C Certified HTML Guarantee",
+        "Complete Deployment",
+        "48 Hours Turn Around Time"
+       ]
+      },
+      {
+       "heading": "** Value Added Services **",
+       "items": [
+        "Complete Source Files",
+        "100% Ownership Rights",
+        "100% Approval Assurance",
+        "100% Money Back Guarantee *",
+        "$50 Per Additional Page",
+        "$150 Payment Integration",
+        "$250 Shopping Cart Integration",
+        "*NO MONTHLY OR ANY HIDDEN FEE*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Web Silver",
+     "price": "$555",
+     "tagline": "Ideal for small business and start Ups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "5 Page Website Design",
+        "5 Email Addresses",
+        "Content Management System (WordPress)",
+        "1 Banner Design",
+        "Contact/Query Form",
+        "3 Revisions",
+        "Complete W3C Certified HTML Guarantee",
+        "Complete Deployment",
+        "48 Hours Turn Around Time"
+       ]
+      },
+      {
+       "heading": "*** Value Added Services ***",
+       "items": [
+        "Complete Source Files",
+        "100% Ownership Rights",
+        "100% Approval Assurance",
+        "100% Money Back Guarantee *"
+       ]
+      },
+      {
+       "heading": "*** ADD ONS ***",
+       "items": [
+        "$50 Per Additional Page",
+        "$150 Payment Integration",
+        "$250 Shopping Cart Integration",
+        "*NO MONTHLY OR ANY HIDDEN FEE*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Web Gold",
+     "price": "$755",
+     "tagline": "Exclusive Web Solution for Business on Budget",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Up to 6 Pages Website Design",
+        "6 Stock Photos (You can provide us more)",
+        "3 Banner Designs",
+        "Sliding Banner",
+        "Hover Effects",
+        "Content Management System (WordPress)",
+        "Mobile Responsive",
+        "FREE 12 Months Domain Name",
+        "5 Professional Email ID’s",
+        "Search Engine Submission",
+        "Unlimited Revisions",
+        "Complete W3C Certified HTML",
+        "Industry specified Team of Expert Designers and Developers",
+        "Complete Deployment",
+        "48 Hours Turn Around Time"
+       ]
+      },
+      {
+       "heading": "** Value Added Services **",
+       "items": [
+        "Complete Source Files",
+        "100% Ownership Rights",
+        "100% Approval Assurance",
+        "100% Money Back Guarantee *"
+       ]
+      },
+      {
+       "heading": "** ADD ONS **",
+       "items": [
+        "$50 Per Additional Page",
+        "$150 Payment Integration",
+        "$250 Shopping Cart Integration",
+        "*NO MONTHLY OR ANY HIDDEN FEE*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Web Platinum",
+     "price": "$955",
+     "tagline": "A comprehensive solution for Business and SMEs",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "10 Unique Pages Website",
+        "CMS / Admin Panel Support",
+        "8 Stock images",
+        "5 Banner Designs",
+        "1 jQuery Slider Banner",
+        "FREE Google Friendly Sitemap",
+        "Complete W3C Certified HTML",
+        "FREE 12 Months Domain Name",
+        "5 Professional Email ID’s",
+        "Search Engine Submission",
+        "Mobile Responsive",
+        "Complete Deployment",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee *",
+        "48 Hours Turn Around Time"
+       ]
+      },
+      {
+       "heading": "*** Value Added Services ***",
+       "items": [
+        "Complete Source Files",
+        "100% Ownership Rights",
+        "100% Approval Assurance"
+       ]
+      },
+      {
+       "heading": "*** ADD ONS ***",
+       "items": [
+        "$50 Per Additional Page",
+        "$150 Payment Integration",
+        "$250 Shopping Cart Integration",
+        "*NO MONTHLY OR ANY HIDDEN FEE*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Web Diamond",
+     "price": "$1455",
+     "tagline": "Detailed branding solution for established Business",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "10-12 Unique Pages Website Design",
+        "Custom, Interactive, Dynamic & High End Design",
+        "Custom Website Development",
+        "Interactive Sliding Banners",
+        "10 Stock Images",
+        "10 Banner Designs",
+        "Special Hover Effects",
+        "Unlimited Revisions",
+        "Content Management System (WordPress or Custom)",
+        "Mobile Responsive",
+        "Online Appointment/Booking/Scheduling/Online Ordering Integration (Optional)",
+        "Payment Integration (Optional)",
+        "FREE 12 Months Domain Name",
+        "10 Professional Email ID’s",
+        "Google Friendly Sitemap",
+        "Search Engine Submission",
+        "Complete W3C Certified HTML",
+        "Industry specific Team of Award Winning Designers and Developers",
+        "Complete Deployment",
+        "Next Day Delivery"
+       ]
+      },
+      {
+       "heading": "** Value Added Services **",
+       "items": [
+        "Complete Source Files",
+        "100% Ownership Rights",
+        "100% Approval Assurance",
+        "100% Unique & Custom Website Design and Development",
+        "100% Money Back Guarantee *"
+       ]
+      },
+      {
+       "heading": "** ADD ONS **",
+       "items": [
+        "$10 (Each) Additional Professional Add on Email ID",
+        "*NO MONTHLY OR ANY HIDDEN FEE*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Web Titanium",
+     "price": "$2555",
+     "tagline": "Detailed branding solution for established Business",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "15 to 20 Unique Pages Website Design",
+        "Custom Made, Interactive, Dynamic & High End Design",
+        "Custom Website Development",
+        "Interactive Sliding Banners",
+        "Up to 15 Custom Made Banner Designs",
+        "15 Stock Images",
+        "Unlimited Revisions",
+        "Special Hover Effects",
+        "Content Management System",
+        "Online Appointment / Booking / Scheduling / Online Ordering Integration (Optional)",
+        "Payment Integration (Optional)",
+        "Multi Lingual (Optional)",
+        "Custom Dynamic Forms (Optional)",
+        "Signup Area (For Newsletters, Offers etc.)",
+        "Search Bar",
+        "Live Feeds of Social Networks integration (Optional)",
+        "Mobile Responsive",
+        "FREE 24 Months Domain Name",
+        "Up to 15 Professional Email ID’s",
+        "Google Friendly Sitemap",
+        "Search Engine Submission",
+        "Complete W3C Certified HTML",
+        "Industry specified Team of Award Winning Designers and Developers",
+        "Complete Deployment",
+        "Next Day Delivery"
+       ]
+      },
+      {
+       "heading": "** Value Added Services **",
+       "items": [
+        "Complete Source Files",
+        "100% Ownership Rights",
+        "100% Unique & Custom Website Design and Development",
+        "100% Approval Assurance",
+        "100% Money Back Guarantee *"
+       ]
+      },
+      {
+       "heading": "** ADD ONS **",
+       "items": [
+        "$10 (Each) Additional Professional Add on Email ID",
+        "Professional Content/Copywriting – $1000 (Up to 20 Pages) – (Per Page $50)",
+        "*NO MONTHLY OR ANY HIDDEN FEE*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Automated Interactive Conferencing Portal Package",
+     "price": "$4999",
+     "tagline": "Suitable for potential Mid Sized and Enterprise companies.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Unlimited Page Website",
+        "Custom Content Management System (CMS)",
+        "Unique Pages and UI Design",
+        "Complete Custom Development",
+        "Process Automation Tools",
+        "Newsfeed Integration",
+        "Social Media Plugins Integration",
+        "Upto 40 Stock images",
+        "10 Unique Banner Designs",
+        "JQuery Slider",
+        "Search Engine Submission",
+        "Free Google Friendly Sitemap",
+        "Custom Email Addresses",
+        "Social Media Page Designs (Facebook, Twitter, Instagram)",
+        "Complete W3C Certified HTML",
+        "Complete Deployment",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "Money Back Guarantee",
+        "Automated Course Creation",
+        "Video Conferencing",
+        "Skills/Certification Tracking",
+        "Mobile Learning",
+        "Asynchronous Learning",
+        "CRM Features",
+        "Gamification",
+        "Social Learning/Message Boards",
+        "Motivational Triggers",
+        "Forums And Webinars",
+        "E-commerce And Subscriptions",
+        "Online Course Booking",
+        "Excellent Reporting",
+        "Invoicing Integration",
+        "Financial Integrations",
+        "Student Information management",
+        "Automated communications",
+        "Learning Management System",
+        "Quick And Easy Course Scheduling",
+        "Reporting And Data Analysis",
+        "Assessment Management & Live Feedback",
+        "Gradebooks",
+        "Quick User Integration",
+        "Easy Payment Methods",
+        "Online Communities & Social Engagement",
+        "Curation of Resources And Adding Own Resources"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": "pills-contact-tab",
+   "label": "Application Development",
+   "packages": [
+    {
+     "name": "Basic Package",
+     "price": "$3999",
+     "tagline": "Ideal for small business and start Ups.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Around 5 Screens",
+        "Around 5 Integrations",
+        "No offline storage of data",
+        "Timeline – Within 2 months",
+        "Only simple validations on device",
+        "Design mockups",
+        "Dashboard",
+        "News",
+        "Blog",
+        "Social login",
+        "User Management",
+        "Admin Management",
+        "Registration Form",
+        "Premium Users",
+        "Social media sharing options",
+        "Team consists of: Dev Team – 1 Developer (full time) QA Team – 1 Test Engineer (shared)"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Professional Package",
+     "price": "$8999",
+     "tagline": "Suitable for Personal and Professional Web Projects.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Around 10 Screens",
+        "Around 10 Integrations",
+        "Simple business logic for Validations / Calculations / Chart Data etc.",
+        "Some local storage of data",
+        "Timeline – Within 4 months",
+        "Team consists of: Dev Team – 1 Developer (full time) QA Team – 1 Test Engineer (shared)",
+        "Complete Source Files",
+        "1 Project Manager (shared)",
+        "Google Map integration",
+        "Driver registration and management",
+        "User registration and management",
+        "Fare calculations",
+        "Referral bonus",
+        "Social Login",
+        "Wallet",
+        "Basic ASO",
+        "Registration using mobile number",
+        "App store and Play store launching"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Elite App Package",
+     "price": "$12490",
+     "tagline": "Ideal for small business and start Ups.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Around 20 Screens",
+        "Around 20 Integrations",
+        "Complex business logic like Interactive Charts, Animations, Validations, Conditions etc.",
+        "Complete local storage of data used by App",
+        "Timeline – Within 6 months",
+        "Team consists of: Dev Team – 1 Developer (full time) QA Team – 1 Test Engineer (shared)",
+        "1 Project Manager (shared)",
+        "1 Team Lead (shared)"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": "video-tab",
+   "label": "video animation",
+   "packages": [
+    {
+     "name": "Teaser",
+     "price": "$200",
+     "tagline": "Right Pick for just a Flavor of what to Expect",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "15 Second Video",
+        "Professional Script",
+        "Storyboard",
+        "Animation",
+        "Voice – Over & Sound Effects",
+        "4 weeks Delivery",
+        "Unlimited Revisions"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Silver",
+     "price": "$350",
+     "tagline": "Suitable for super startups or small businesses",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "30 Seconds Video",
+        "Professional Script",
+        "Sample Theme",
+        "Storyboard",
+        "Animation",
+        "Voice – Over & Sound Effects",
+        "5 weeks Deliveryy"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "BRONZE",
+     "price": "$1050",
+     "tagline": "Suitable for Small Business and Start-ups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "60 – 90 Second Video",
+        "Professional Script",
+        "Sample Theme",
+        "Storyboard",
+        "Average TAT 5-6 weeks",
+        "Animation",
+        "Voice – Over & Sound Effects",
+        "6 weeks Delivery",
+        "6 Creative Designers"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Video Start-Up",
+     "price": "$755",
+     "tagline": "Suitable for Small Business and Start-ups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "60 Second Video",
+        "Professional Script",
+        "Sample Theme",
+        "Storyboard",
+        "Custom Artwork",
+        "Animation",
+        "Professional Voice - Over & Sound Effects",
+        "4 weeks Delivery",
+        "On Time Delivery",
+        "Dedicated Team"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "Moneyback Guarantee",
+        "100% Ownership Rights",
+        "FREE All File Formats"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Video Gold",
+     "price": "$1155",
+     "tagline": "The Deal to Pick If You Mean Serious Business",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "90 Second Video",
+        "Professional Script",
+        "Sample Theme",
+        "Storyboard",
+        "Custom Artwork",
+        "Animation",
+        "Professional Voice - Over & Sound Effects",
+        "4-5 weeks Delivery",
+        "On Time Delivery",
+        "Dedicated Team"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "Moneyback Guarantee",
+        "100% Ownership Rights",
+        "FREE All File Formats"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Video Platinum",
+     "price": "$1555",
+     "tagline": "Your one Stop Solution for the ultimate animation service",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "120 Second Video",
+        "Professional Script",
+        "Sample Theme",
+        "Storyboard",
+        "Custom Artwork",
+        "Animation",
+        "Professional Voice - Over & Sound Effects",
+        "4-5 weeks Delivery",
+        "24 X 7 Support",
+        "On Time Delivery",
+        "Dedicated Team"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "Moneyback Guarantee",
+        "100% Ownership Rights",
+        "FREE All File Formats"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": "commerce-tab",
+   "label": "E-commerce",
+   "packages": [
+    {
+     "name": "Super Discount Offer",
+     "price": "$699",
+     "tagline": "Branding Solution for E-Com Startups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Customized Design",
+        "Up-to 100 Products",
+        "Content Management System (CMS)",
+        "Mini Shopping Cart Integration",
+        "Payment Module Integration",
+        "Easy Product Search",
+        "Dedicated designer & developer"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "E-Commerce Professional Package",
+     "price": "$1355",
+     "tagline": "Grow your business with an effective eCommerce website",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Customized Design",
+        "Up-to 500 Products",
+        "Content Management System (CMS)",
+        "Full Shopping Cart Integration",
+        "Payment Module Integration",
+        "Easy Product Search",
+        "Product Reviews",
+        "5 Promotional Banners",
+        "Team of Expert Designers & Developers"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "Unlimited Revisions",
+        "100% Satisfaction Guarantee",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "E-Commerce Elite",
+     "price": "$3555",
+     "tagline": "Complete branding solution for established ecommerce businesses",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "UNLIMITED Logo Design Concepts",
+        "By 6 Award Winning Designers",
+        "Icon Design",
+        "UNLIMITED Revisions",
+        "Print Media",
+        "Stationery Design (BusinessCard,Letterhead & Envelope)",
+        "Invoice Design, Email Signature",
+        "Bi-Fold Brochure (OR) 2 Sided Flyer Design",
+        "Product Catalog Design",
+        "Sign age Design (OR) Label Design",
+        "T-Shirt Design (OR) Car Wrap Design",
+        "Website",
+        "E-Commerce Store Design",
+        "Product Detail Page Design",
+        "Unique Banner Slider",
+        "Featured Products Showcase",
+        "Full Shopping Cart Integration",
+        "Unlimited Products",
+        "Unlimited Categories",
+        "Product Rating & Reviews",
+        "Easy Product Search",
+        "Multi-currency SupportPayment Gateway Integration",
+        "Multi-currency Support",
+        "Content Management System",
+        "Cutomer Log-in Area",
+        "Mobile Responsive",
+        "Social Media Plugins Integration",
+        "Tell a Friend Feature",
+        "Social Media Pages",
+        "Facebook , Twitter, YouTube, Google+ & Pinterest Page Designs",
+        "Value Added Services",
+        "Dedicated Account Manager"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "Unlimited Revisions",
+        "All Final File Formats",
+        "100% Ownership Rights",
+        "100% Unique Design Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": "branding-tab",
+   "label": "Branding",
+   "packages": [
+    {
+     "name": "Brochure Design",
+     "price": "$155",
+     "tagline": "Branding Solutions for start-ups, small businesses, and large corporations.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "2 Design Concept",
+        "1 Dedicated Designer",
+        "3 Revisions",
+        "3 Stock Photos Free",
+        "3 File Formats *",
+        "100% Satisfaction Guarantee",
+        "Print Ready Formats",
+        "Email & Phone Support",
+        "3 Business Days Delivery ***"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": "SEO-tab",
+   "label": "SEO",
+   "packages": [
+    {
+     "name": "Startup",
+     "price": "$555",
+     "tagline": "Suitable for newly formed organizations or small incubated startups",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Campaign Setup",
+        "Website Audit",
+        "15 Selected Keywords Targeting",
+        "Keyword Research",
+        "Keyword Grouping",
+        "Keyword Mapping",
+        "SEO Road Map",
+        "Blog Creation",
+        "Webpage Copywriting (3 pages, 350 words per page)",
+        "Title Tag Optimization (10 titles)",
+        "Meta Description Optimization (10 meta description)",
+        "Meta Keyword Optimization (10 meta keywords)",
+        "Domain Redirect Optimization (10 domain redirects)",
+        "xml Sitemap Optimization",
+        "Robots.txt Check",
+        "URL Rewrites (10 URL rewrites)",
+        "Broken Link Report",
+        "Rich Snippet Recommendations",
+        "Breadcrumbs",
+        "Initial Off-Page SEO",
+        "Social Bookmarking",
+        "Slide Share Marketing",
+        "Forums/FAQ’s",
+        "Link Building",
+        "Directory Submission",
+        "Local Business Listings"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SEO Gold",
+     "price": "$855",
+     "tagline": "Guaranteed Results from a Professional SEO Company Based in US",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Prior Analysis",
+        "Business Analysis",
+        "Consumer Analysis",
+        "Competitor Analysis",
+        "35 Selected Keywords Targeting",
+        "15 Pages Keyword Targeted",
+        "Meta Tags Creation",
+        "Keyword Optimization",
+        "Image Optimization",
+        "Inclusion of anchors",
+        "Tracking & Analysis",
+        "Google Analytics Installation",
+        "Google Webmaster Installation",
+        "Call To Action Plan",
+        "Creation of Sitemaps",
+        "Reporting",
+        "Monthly Reporting",
+        "Recommendation",
+        "Email Support",
+        "Phone Support",
+        "Social Bookmarking",
+        "Slide Share Marketing",
+        "Forums/FAQ’s",
+        "Link Building",
+        "Directory Submission",
+        "Local Business Listings"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "SEO Platinum",
+     "price": "$2555",
+     "tagline": "Multiply your revenue by a thousand folds with our result-proven SEO strategies",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Prior Analysis",
+        "Business Analysis",
+        "Consumer Analysis",
+        "Competitor Analysis",
+        "60+ Selected Keywords Targeting",
+        "30 Pages Keyword Targeted",
+        "Meta Tags Creation",
+        "Keyword Optimization",
+        "Image Optimization",
+        "Inclusion of anchors Tags",
+        "Inclusion of anchors Indexing Modifications",
+        "Tracking & Analysis",
+        "Google Analytics Installation",
+        "Google Webmaster Installation",
+        "Call To Action Plan",
+        "Creation of Sitemaps",
+        "Reporting",
+        "Monthly Reporting",
+        "Recommendation",
+        "Email Support",
+        "Phone Support",
+        "Off Page Optimization",
+        "Social Bookmarking",
+        "Slide Share Marketing",
+        "Forums/FAQ’s",
+        "Link Building",
+        "Directory Submission",
+        "Local Business Listings"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": "stationery-tab",
+   "label": "Stationery Design",
+   "packages": [
+    {
+     "name": "Basic Stationery",
+     "price": "$50",
+     "tagline": "Ideal for SMEs & Small Businesses.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "2 Business Card Concepts",
+        "2 Letterhead Concepts",
+        "2 Envelope Concepts",
+        "2 Email Signature Concepts",
+        "1 Designers",
+        "3 Business Days Delivery ***",
+        "4 File Formats *",
+        "Email & Phone Support"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Start-Up<",
+     "price": "$125",
+     "tagline": "Exclusive Branding Solution for Startups.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "4 Business Card Concepts",
+        "2 Letterhead Concepts",
+        "2 Envelope Concepts",
+        "2 Email Signature Concepts",
+        "MS Word Letterhead Included",
+        "5 Revisions*",
+        "2 Designers",
+        "3 Business Days Delivery ***",
+        "4 File Formats *",
+        "Email & Phone Support"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Gold Stationery",
+     "price": "$155",
+     "tagline": "Branding Solution for Businesses & Organizations.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "4 Business Card Concepts",
+        "2 Letterhead Concepts",
+        "2 Envelope Concepts",
+        "2 Email Signature Concepts",
+        "Compliment Slip",
+        "MS Word Letterhead Included",
+        "invoice design",
+        "5 Revisions*",
+        "3 Designers",
+        "3 Business Days Delivery ***",
+        "4 File Formats *",
+        "Email & Phone Support"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": "content-tab",
+   "label": "Content Writing",
+   "packages": [
+    {
+     "name": "Article Writing",
+     "price": "$55",
+     "tagline": "Suitable for Off-Site and On-Site article posting",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "300 Words per Page",
+        "Timely Delivery",
+        "Superior Standard Content",
+        "Professional Writers"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "100% Satisfaction Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Creative Writing",
+     "price": "$55",
+     "tagline": "Suitable for clients seeking Innovative Content",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "250 Words per Page",
+        "Timely Delivery",
+        "Superior Standard Content",
+        "Professional Industry Specific Writers"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "100% Satisfaction Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Blog Writing",
+     "price": "$55",
+     "tagline": "Suitable for Personal and Corporate Blog Projects",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "250 Words per Page",
+        "Timely Delivery",
+        "Superior Standard Content",
+        "Professional Writers"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "100% Satisfaction Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Infographics",
+     "price": "$155",
+     "tagline": "Suitable for Personal and Corporate Marketing Projects",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "120 Words per Infographic",
+        "Timely Delivery",
+        "Superior Standard Content",
+        "Professional Writers"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "100% Satisfaction Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Web Content",
+     "price": "$249",
+     "tagline": "Suitable for Personal and Professional Web Projects",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "250 Words per Page",
+        "Timely Delivery",
+        "Superior Standard Content",
+        "Professional Industry Specific Writers"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "100% Satisfaction Guarantee",
+        "100% Money Back Guarantee*"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": "banner-tab",
+   "label": "Banner & Poster",
+   "packages": [
+    {
+     "name": "Poster Or Banner",
+     "price": "$155",
+     "tagline": "The Most Reliable Home of Professional Banner & Poster Designers.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "2 Design Concept",
+        "3 Revisions",
+        "3 Stock Photos Free",
+        "7 File Formats *",
+        "3 Business Days Delivery ***",
+        "Print Ready Formats",
+        "Email & Phone Support"
+       ]
+      },
+      {
+       "heading": "Features",
+       "items": [
+        "100% Satisfaction Guarantee"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tabId": "social-tab",
+   "label": "Social Media Marketing",
+   "packages": [
+    {
+     "name": "Simple Start",
+     "price": "$500",
+     "tagline": "Suitable for potential super-startups and brand revamps for companies.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Total Post 12/3 Post a Week",
+        "3 Reels Per Month",
+        "4 Graphic Posts",
+        "5 Carousel",
+        "4 Stories + Highlights (Complimentary)",
+        "Social Platforms Supported",
+        "Facebook",
+        "Instagram",
+        "Social Ads Management",
+        "Facebook and Instagram Ads",
+        "Total 1 Campaign Per Month",
+        "5 Adsets Per Month",
+        "Social Media Management",
+        "Account Setup/Optimization (Cover Photo, About Section, Display Picture, and More)",
+        "Monthly Social Posts Scheduling",
+        "Meta Business Manager Setup",
+        "CRM Integeration (Database Management)",
+        "Cross-Platform Integration (Facebook, Whatsapp, Instagram, Pixels)",
+        "Total Designated Team Members",
+        "01 Dedicated Social Media Copywriter",
+        "01 Dedicated Graphic Designer",
+        "01 Dedicated Ads Expert",
+        "01 Dedicated Account Manager"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Essentails",
+     "price": "$1000",
+     "tagline": "Promote your business over the social media.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Social Media Posts",
+        "Total Post 16/4 Post a Week",
+        "4 Reels Per Month",
+        "6 Graphic Posts",
+        "6 Carousel",
+        "6 Stories + Highlights (Complimentary)",
+        "Social Platforms Supported",
+        "Facebook",
+        "Instagram",
+        "Tiktok/LinkedIn",
+        "Social Ads Management",
+        "Campaigns on FB, Insta, and Tiktok/LinkedIn",
+        "Total 3 Campaign Per Month",
+        "Unlimited Adsets Per Month",
+        "Detailed Campaign Monitering",
+        "All Ad Objectives Supported",
+        "Social Media Management",
+        "Account Setup/Optimization (Cover Photo, About Section, Display Picture, and More)",
+        "Monthly Social Posts Scheduling",
+        "Meta Business Manager Setup",
+        "Tiktok/LinkedIn Ads Account Setup",
+        "CRM Integeration (Database Management)",
+        "Cross-Platform Integration (Facebook, Whatsapp, Instagram, Pixels)",
+        "Total Designated Team Members",
+        "02 Dedicated Social Media Copywriter",
+        "02 Dedicated Graphic Designer",
+        "02 Dedicated Ads Expert",
+        "01 Dedicated Account Manager"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Business Plan",
+     "price": "$2100",
+     "tagline": "Promote your business over the social media.",
+     "groups": [
+      {
+       "heading": null,
+       "items": [
+        "Social Media Posts",
+        "Total Post 24/6 Post a Week",
+        "6 Reels Per Month",
+        "9 Graphic Posts",
+        "9 Carousel",
+        "6 Stories + Highlights (Complimentary)",
+        "Social Platforms Supported",
+        "Facebook",
+        "Instagram",
+        "Tiktok/LinkedIn",
+        "Twitter",
+        "LinkedIn",
+        "Pinterest",
+        "Snapchat",
+        "Social Ads Management",
+        "Unlimited Campaigns on FB, Insta, Tiktok, LinkedIn, Snapchat, Pinterest, and Twitter",
+        "Unlimited Campaigns Per Month",
+        "Detailed Campaign Monitering",
+        "All Ad Objectives Supported",
+        "Social Media Management",
+        "Account Setup/Optimization (Cover Photo, About Section, Display Picture, and More)",
+        "Monthly Social Posts Scheduling",
+        "Meta Business Manager Setup",
+        "All Ads Account Setup (FB, Insta, Tiktok, LinkedIn, Snapchat, Pinterest, and Twitter)",
+        "CRM Integration (Database Management)",
+        "Cross-Platform Integeration (Facebook, WhatsApp, Instagram, Pixels)",
+        "Social Community Management (Query + Commnet Responses)",
+        "Total Designated Team Members",
+        "03 Dedicated Social Media Copywriter",
+        "03 Dedicated Graphic Designer",
+        "03 Dedicated Ads Expert",
+        "01 Dedicated Account Manager"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

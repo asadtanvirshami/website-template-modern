@@ -1,0 +1,338 @@
+{
+ "/legacy/branding-1.png": [
+  1024,
+  768
+ ],
+ "/legacy/branding-2.jpg": [
+  1024,
+  768
+ ],
+ "/legacy/branding-3.png": [
+  1024,
+  768
+ ],
+ "/legacy/branding-4.png": [
+  1024,
+  768
+ ],
+ "/legacy/branding-5.jpg": [
+  1024,
+  768
+ ],
+ "/legacy/content-1.png": [
+  1024,
+  768
+ ],
+ "/legacy/content-2.jpg": [
+  1024,
+  768
+ ],
+ "/legacy/content-3.jpg": [
+  1024,
+  768
+ ],
+ "/legacy/content-4.jpg": [
+  1024,
+  768
+ ],
+ "/legacy/content-5.png": [
+  1024,
+  768
+ ],
+ "/legacy/cta-img2.png": [
+  3952,
+  2850
+ ],
+ "/legacy/cwh--1.jpg": [
+  2301,
+  10000
+ ],
+ "/legacy/cwh--2.jpg": [
+  2717,
+  10000
+ ],
+ "/legacy/cwh--3.jpg": [
+  3765,
+  10000
+ ],
+ "/legacy/cwh--4.jpg": [
+  3075,
+  10000
+ ],
+ "/legacy/cwh--5.png": [
+  1920,
+  14893
+ ],
+ "/legacy/cwh-about.png": [
+  1536,
+  1024
+ ],
+ "/legacy/favicon.png": [
+  134,
+  134
+ ],
+ "/legacy/logo-1.jpg": [
+  1024,
+  768
+ ],
+ "/legacy/logo-2.png": [
+  1024,
+  691
+ ],
+ "/legacy/logo-3.jpg": [
+  752,
+  564
+ ],
+ "/legacy/logo-4.png": [
+  752,
+  564
+ ],
+ "/legacy/logo-5.jpg": [
+  1024,
+  768
+ ],
+ "/legacy/logo-dark.png": [
+  2500,
+  1192
+ ],
+ "/legacy/logo-light.png": [
+  2500,
+  1192
+ ],
+ "/legacy/pf1.png": [
+  1140,
+  690
+ ],
+ "/legacy/pf2.png": [
+  1140,
+  690
+ ],
+ "/legacy/pf3.png": [
+  1140,
+  690
+ ],
+ "/legacy/pf4.png": [
+  1140,
+  690
+ ],
+ "/legacy/pf5.png": [
+  1140,
+  690
+ ],
+ "/legacy/portfolio/branding/1.jpg": [
+  640,
+  640
+ ],
+ "/legacy/portfolio/branding/2.jpg": [
+  640,
+  640
+ ],
+ "/legacy/portfolio/branding/3.jpg": [
+  640,
+  640
+ ],
+ "/legacy/portfolio/branding/4.jpg": [
+  640,
+  640
+ ],
+ "/legacy/portfolio/branding/5.jpg": [
+  640,
+  640
+ ],
+ "/legacy/portfolio/branding/6.jpg": [
+  640,
+  640
+ ],
+ "/legacy/portfolio/ecommerce/1.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/ecommerce/2.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/ecommerce/3.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/ecommerce/4.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/ecommerce/5.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/ecommerce/6.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/logodesign/1.jpg": [
+  740,
+  740
+ ],
+ "/legacy/portfolio/logodesign/2.jpg": [
+  500,
+  500
+ ],
+ "/legacy/portfolio/logodesign/3.jpg": [
+  1600,
+  1600
+ ],
+ "/legacy/portfolio/logodesign/4.jpg": [
+  626,
+  626
+ ],
+ "/legacy/portfolio/logodesign/5.jpg": [
+  500,
+  500
+ ],
+ "/legacy/portfolio/logodesign/6.jpg": [
+  564,
+  564
+ ],
+ "/legacy/portfolio/logodesign/7.jpg": [
+  976,
+  915
+ ],
+ "/legacy/portfolio/social/10.jpg": [
+  800,
+  734
+ ],
+ "/legacy/portfolio/social/11.jpg": [
+  800,
+  734
+ ],
+ "/legacy/portfolio/social/6.jpg": [
+  800,
+  734
+ ],
+ "/legacy/portfolio/social/7.jpg": [
+  800,
+  734
+ ],
+ "/legacy/portfolio/social/8.jpg": [
+  800,
+  734
+ ],
+ "/legacy/portfolio/social/9.jpg": [
+  800,
+  734
+ ],
+ "/legacy/portfolio/videoanimation/1.jpg": [
+  1280,
+  720
+ ],
+ "/legacy/portfolio/videoanimation/2.jpg": [
+  1280,
+  720
+ ],
+ "/legacy/portfolio/videoanimation/3.jpg": [
+  1280,
+  720
+ ],
+ "/legacy/portfolio/videoanimation/4.jpg": [
+  1280,
+  720
+ ],
+ "/legacy/portfolio/videoanimation/5.jpg": [
+  1280,
+  720
+ ],
+ "/legacy/portfolio/videoanimation/6.jpg": [
+  1280,
+  720
+ ],
+ "/legacy/portfolio/webdesign/1.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/webdesign/2.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/webdesign/3.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/webdesign/4.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/webdesign/5.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/portfolio/webdesign/6.jpg": [
+  1280,
+  640
+ ],
+ "/legacy/seo-1.png": [
+  752,
+  457
+ ],
+ "/legacy/seo-2.png": [
+  1024,
+  1024
+ ],
+ "/legacy/seo-3.jpg": [
+  1024,
+  768
+ ],
+ "/legacy/social-1.png": [
+  1024,
+  768
+ ],
+ "/legacy/social-2.png": [
+  1024,
+  559
+ ],
+ "/legacy/social-3.jpg": [
+  1024,
+  800
+ ],
+ "/legacy/social-4.png": [
+  1024,
+  768
+ ],
+ "/work/adventure-gene-card.webp": [
+  1600,
+  1600
+ ],
+ "/work/adventure-gene-full.webp": [
+  1200,
+  5215
+ ],
+ "/work/car-dealer-card.webp": [
+  1600,
+  1600
+ ],
+ "/work/car-dealer-full.webp": [
+  1200,
+  4417
+ ],
+ "/work/home-press-card.webp": [
+  1600,
+  1600
+ ],
+ "/work/home-press-full.webp": [
+  1200,
+  3188
+ ],
+ "/work/eduma-card.webp": [
+  1600,
+  1600
+ ],
+ "/work/eduma-full.webp": [
+  1200,
+  3902
+ ],
+ "/work/fitwell-card.webp": [
+  1600,
+  1600
+ ],
+ "/work/fitwell-full.webp": [
+  1200,
+  9308
+ ]
+}
